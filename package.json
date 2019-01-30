@@ -4,11 +4,12 @@
   "description": "A basic auth example",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "author": "Francisco De La Hoz",
   "license": "MIT",
-  "dependencies": {
-    "express": "^4.16.3"
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.12.1"
   }
 }
